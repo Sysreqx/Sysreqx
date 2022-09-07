@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java/Spring**
 
-- 📫 How to reach me **sysreqx@gmail.com | <a href=”tel:+77007550775”>+7(700)755-07-75</a>**
+- 📫 How to reach me **sysreqx@gmail.com | <a href=”tel:+77007550775”>+7 (700) 755-07-75</a>**
 
 - ⚡ Fun fact **Divination on coffee beans :)**
 
