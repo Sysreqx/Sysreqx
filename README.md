@@ -19,7 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/kaisar.yerdenbekov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaisar.yerdenbekov" height="30" width="40" /></a>
+<a href="https://instagram.com/kaisar.yerdenbekov" target="blank"><img align="center" src="https://www.logosearcher.com/wp-content/uploads/2018/09/instagram-2016-6.svg" alt="kaisar.yerdenbekov" height="30" width="40" /></a>
+<a href="https://t.me/yerdenbekov_kaisar" target="blank"><img align="center" src="https://www.logosearcher.com/wp-content/uploads/2019/08/telegram-1.svg" alt="kaisar.yerdenbekov" height="30" width="40" /></a>
+<a href="https://api.whatsapp.com/send?phone=77007550775”" target="blank"><img align="center" src="https://www.logosearcher.com/wp-content/uploads/2019/11/whatsapp-symbol.svg" alt="kaisar.yerdenbekov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
