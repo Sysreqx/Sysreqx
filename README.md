@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **sysreqx@gmail.com | <a href=”tel:+77007550775”>+7 (700) 755-07-75 </a>**
 
-- ⚡ Fun fact **Read on coffee beans :)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/kaisar.yerdenbekov" target="blank"><img align="center" src="https://www.logosearcher.com/wp-content/uploads/2018/09/instagram-2016-6.svg" alt="kaisar.yerdenbekov" height="30" width="40" /></a>
