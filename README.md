@@ -7,11 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sysreqx&label=Profile%20views&color=0e75b6&style=flat" alt="sysreqx" /> </p>
 
 
-- 🔭 I’m currently working on [Digital Bookkeping](https://github.com/Sysreqx/spring_digital_bookkeeping)
+- 🔭 I’m currently working on couple projects
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **FastAPI / Python**
 
-- 💬 Ask me about **Java/Spring**
+- 💬 Ask me about **Everything**
 
 - 📫 How to reach me **sysreqx@gmail.com | <a href=”tel:+77007550775”>+7 (700) 755-07-75 </a>**
 
