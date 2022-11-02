@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://www.intelegain.com/wp-content/uploads/2019/08/1_OF0xEMkWBv-69zvmNs6RDQ.gif)](https://github.com/Sysreqx) -->
 <h1 align="center">Kaisar Yerdenbekov</h1> 
 <h3 align="center">Backend developer</h3> 
-<!-- <img align="right" alt="Coding" width="250" src="https://c.tenor.com/r7dqZ6cyywoAAAAd/cat-computer.gif"> -->
+<img align="right" alt="Coding" width="250" src="https://c.tenor.com/r7dqZ6cyywoAAAAd/cat-computer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sysreqx&label=Profile%20views&color=0e75b6&style=flat" alt="sysreqx" /> </p>
