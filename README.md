@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://www.intelegain.com/wp-content/uploads/2019/08/1_OF0xEMkWBv-69zvmNs6RDQ.gif)](https://github.com/Sysreqx) -->
 <h1 align="center">Kaisar Yerdenbekov</h1> 
-<h3 align="center">Backend developer</h3> 
+<h3 align="center">Front-End Developer</h3> 
 <!-- <img align="right" alt="Coding" width="250" src="https://c.tenor.com/r7dqZ6cyywoAAAAd/cat-computer.gif"> -->
 
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on couple projects
 
-- 🌱 I’m currently learning **FastAPI / Python**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Everything**
+- 💬 Ask me about **websites and web applications**
 
 - 📫 How to reach me **sysreqx@gmail.com | <a href=”tel:+77007550775”>+7 (700) 755-07-75 </a>**
 
