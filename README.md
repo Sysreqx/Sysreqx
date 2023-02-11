@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sysreqx&label=Profile%20views&color=0e75b6&style=flat" alt="sysreqx" /> </p>
 
 
-- 🔭 I’m currently working on couple projects
+- 🔭 I’m currently working in <a href="http://www.pmgroup.kz/" target="_blank">PMG</a>
 
 - 🌱 I’m currently learning **React**
 
