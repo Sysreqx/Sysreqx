@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working in <a href="http://www.pmgroup.kz/" target="_blank">PMG</a>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Vue**
 
 - 💬 Ask me about **websites and web applications**
 
